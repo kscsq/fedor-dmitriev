@@ -2,7 +2,8 @@
     "title": "Resume",
     "name": "startbootstrap-resume",
     "version": "4.1.1",
-    "description": "",
+    "description": "",  
+	"main": "index.html",
     "keywords": [
         "css",
         "sass",
@@ -21,9 +22,10 @@
     "contributors": "",
     "repository": "",
     "dependencies": {
-        "bootstrap": "4.1.1",
+        "bootstrap": "^4.1.3",
         "devicons": "^1.8.0",
         "jquery": "3.3.1",
+        "popper.js": "^1.14.4",
         "simple-line-icons": "^2.4.1"
     },
     "devDependencies": {
