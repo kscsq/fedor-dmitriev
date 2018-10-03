@@ -18,8 +18,8 @@
     },
     "license": "",
     "author": "",
-    "contributors": ,
-    "repository": ,
+    "contributors": "",
+    "repository": "",
     "dependencies": {
         "bootstrap": "4.1.1",
         "devicons": "^1.8.0",
