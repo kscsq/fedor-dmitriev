@@ -3,7 +3,9 @@
     "name": "Resume",
     "version": "4.1.1",
     "description": "Fedor Dmitriev's CV",
-    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
     "keywords": [
         "css",
         "sass",
