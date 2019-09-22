@@ -28,9 +28,11 @@
     "contributors": "",
     "dependencies": {
         "bootstrap": "^4.3.1",
+        "cli": "^1.0.1",
         "consolidate": "^0.15.1",
         "devicons": "^1.8.0",
         "express": "^4.16.3",
+        "fstream": "^1.0.12",
         "gulp-util": "^3.0.8",
         "htmling": "0.0.8",
         "http": "0.0.0",
@@ -38,7 +40,9 @@
         "lodash.template": "^4.5.0",
         "mustache": "^3.0.0",
         "popper.js": "^1.14.4",
-        "simple-line-icons": "^2.4.1"
+        "simple-line-icons": "^2.4.1",
+        "sshpk": "^1.16.1",
+        "tar": "^4.4.11"
     },
     "devDependencies": {
         "browser-sync": "^2.26.7",
