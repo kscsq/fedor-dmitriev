@@ -42,7 +42,7 @@
         "popper.js": "^1.14.4",
         "simple-line-icons": "^2.4.1",
         "sshpk": "^1.16.1",
-        "tar": "^4.4.11"
+        "tar": "^4.4.15"
     },
     "devDependencies": {
         "browser-sync": "^2.26.7",
